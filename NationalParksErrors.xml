@@ -66,18 +66,6 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
-    <Name>Glacier</Name>
-    <Phone>406-888-7800</Phone>
-    <Address NearestAirport="Kalispell">
-      <Number>64</Number>
-      <Street>Grinnell Drive</Street>
-      <City>West Glacier</City>
-      <State>MT</State>
-      <Zip>59936</Zip>
-    
-  </NationalPark>
-
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -138,6 +126,18 @@
       <State>FL</State>
       <Zip>33034</Zip>
     </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <n>Glacier</n>
+    <Phone>406-888-7800</Phone>
+    <Address NearestAirport="Kalispell">
+      <Number>64</Number>
+      <Street>Grinnell Drive</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    
   </NationalPark>
 
 </NationalPark>
